@@ -50,10 +50,8 @@ pip install catboost
 pip install treeinterpreter
 ```
 
-Then clone this repo with
-```
-git clone https://github.com/mohamedirfansh/Airbnb-Data-Science-Project.git
-```
+
+
 
 You can then open the following files with **Jupyter Notebook**:
 ```
@@ -76,9 +74,9 @@ Machine Learning Models.ipynb
 
 ## 👨‍💻 Developers
 
-+ [Mohamed Irfan](https://github.com/mohamedirfansh)
-+ Dian Wei
-+ Kristy
++ Pulkit Kumar Singh
++ Lakshita Gulati
+
 
 ## 📄 License
 
